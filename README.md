@@ -26,11 +26,11 @@ Informed Decision-Making: Enable stakeholders to make informed decisions that op
 # DATA SET
 This dataset contains information about all the listed restaurants in Hyderabad. The python script to scrap this dataset is available here. This dataset can be utilized to build recommendation system, analyze data trend, predict food price and much more. Dataset column details are as follows:
 
-*Links*: Contains links to the order page of the restaurants."/n"
-*Names*: Name of the restaurants.
-*Ratings*: Average of the rating given by the all the customers.
-*Cuisine*: Cuisine served by the restaurants.
-price for one: Cost of the food for one person in INR. give me problem statemenet to analysis data visusialsation how to give problem statements
+-*Links*: Contains links to the order page of the restaurants."/n"
+-*Names*: Name of the restaurants.
+-*Ratings*: Average of the rating given by the all the customers.
+-*Cuisine*: Cuisine served by the restaurants.
+-*Price*: Cost of the food for one person in INR. give me problem statemenet to analysis data visusialsation how to give problem statements
 ## Overview
 This project aims to analyze the Zomato restaurant dataset for Hyderabad, India, to uncover insights into customer preferences, pricing trends, and popular dining spots. The analysis involves data exploration, visualization, and potentially predictive modeling to empower stakeholders with actionable insights for decision-making in the restaurant industry.
 
