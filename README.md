@@ -1,5 +1,9 @@
 # Hyderabad_Restaurants-
 Exploring Hyderabad's Restaurant Landscape through Data
+# Problem Statement
+Analyze the Zomato restaurant dataset to understand customer sentiment, predict ratings, and identify cuisine preferences by location.
+Visualize price range distribution, restaurant density, and seasonal trends to inform marketing strategies and enhance the dining experience in different areas of the city.
+
 ## Overview
 This project aims to analyze the Zomato restaurant dataset for Hyderabad, India, to uncover insights into customer preferences, pricing trends, and popular dining spots. The analysis involves data exploration, visualization, and potentially predictive modeling to empower stakeholders with actionable insights for decision-making in the restaurant industry.
 
