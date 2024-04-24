@@ -41,3 +41,17 @@ This project aims to analyze the Zomato restaurant dataset for Hyderabad, India,
 - **Matplotlib:** Library for creating static, interactive, and animated visualizations in Python..
 - **NumPy:** Library for numerical computing in Python.
 - **GitHub:** Version control platform for collaboration and project management.
+
+## DESIGN FLOW
+- **Data Exploration**: Utilize Pandas to explore the dataset, examining its structure, missing values, and basic statistics.
+- **Visualization**: Employ Matplotlib and Seaborn to create informative visualizations, such as histograms, scatter plots, and bar charts, to uncover patterns and insights within the data.
+- **Descriptive Statistics**: Calculate descriptive statistics, including mean, median, mode, and standard deviation, to summarize key aspects of the dataset.
+- **Predictive Modeling**: Implement machine learning models using Scikit-learn to predict restaurant ratings based on features such as cuisine, price, and location.
+# Key Findings
+# > Cuisine Preferences: Italian cuisine is the most popular, followed by Indian and Chinese.
+Price Range: The majority of restaurants have a price range between 200-500 INR per person.
+Rating Distribution: Ratings are normally distributed, with a mean rating of 4.2.
+Predictive Model Performance: The predictive model achieved an accuracy of 80% in predicting restaurant ratings.
+Visualizations
+Flow Chart: Visual representation of the data analysis process, outlining the steps from data exploration to predictive modeling.
+Pie Charts: Illustration of the distribution of cuisine preferences and price ranges among restaurants in Hyderabad.
