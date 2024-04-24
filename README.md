@@ -26,8 +26,8 @@ Informed Decision-Making: Enable stakeholders to make informed decisions that op
 # DATA SET
 This dataset contains information about all the listed restaurants in Hyderabad. The python script to scrap this dataset is available here. This dataset can be utilized to build recommendation system, analyze data trend, predict food price and much more. Dataset column details are as follows:
 
-1.*Links*: Contains links to the order page of the restaurants
-2.*Names*: Name of the restaurants.
+- *Links*: Contains links to the order page of the restaurants
+- **Names**: Name of the restaurants.
 3.*Ratings*: Average of the rating given by the all the customers.
 4.*Cuisine*: Cuisine served by the restaurants.
 5.*Price*: Cost of the food for one person in INR. give me problem statemenet to analysis data visusialsation how to give problem statements
