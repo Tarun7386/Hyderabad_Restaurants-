@@ -4,7 +4,7 @@ Exploring Hyderabad's Restaurant Landscape through Data
 Analyze the Zomato restaurant dataset to understand customer sentiment, predict ratings, and identify cuisine preferences by location.
 Visualize price range distribution, restaurant density, and seasonal trends to inform marketing strategies and enhance the dining experience in different areas of the city.
 
-#**Abstract**:
+# Abstract:
 This project dives into Zomato's data on Hyderabad's restaurants, offering valuable insights for both diners and businesses.
 With details on restaurant names, ratings, cuisines, and prices, it provides a comprehensive look at the city's dining scene.
 Through straightforward analysis and visualization, we aim to reveal customer preferences, pricing patterns, and popular dining spots. 
