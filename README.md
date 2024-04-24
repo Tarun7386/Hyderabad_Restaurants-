@@ -1,4 +1,4 @@
-# Hyderabad_Restaurants-
+# Hyderabad_Restaurants
 Exploring Hyderabad's Restaurant Landscape through Data
 # Problem Statement
 Analyze the Zomato restaurant dataset to understand customer sentiment, predict ratings, and identify cuisine preferences by location.
