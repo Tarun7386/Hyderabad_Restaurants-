@@ -4,20 +4,20 @@ Exploring Hyderabad's Restaurant Landscape through Data
 Analyze the Zomato restaurant dataset to understand customer sentiment, predict ratings, and identify cuisine preferences by location.
 Visualize price range distribution, restaurant density, and seasonal trends to inform marketing strategies and enhance the dining experience in different areas of the city.
 
-**Abstract**:
+#**Abstract**:
 This project dives into Zomato's data on Hyderabad's restaurants, offering valuable insights for both diners and businesses.
 With details on restaurant names, ratings, cuisines, and prices, it provides a comprehensive look at the city's dining scene.
 Through straightforward analysis and visualization, we aim to reveal customer preferences, pricing patterns, and popular dining spots. 
 This data-driven approach empowers stakeholders to make informed decisions, enriching the culinary experience and fostering growth in Hyderabad's vibrant restaurant community.
 
-*Objectives*:
+**Objectives**:
 Data Exploration: Conduct thorough exploration of the Zomato restaurant dataset to understand its structure, features, and potential insights.
 Insight Generation: Identify key patterns, trends, and relationships within the dataset to uncover valuable insights about the Hyderabad restaurant scene.
 Visualization: Utilize data visualization techniques to present findings in a clear, concise, and visually appealing manner.
 Predictive Analysis: Develop predictive models, if applicable, to forecast restaurant ratings or prices based on relevant features.
 Stakeholder Empowerment: Empower stakeholders, including consumers and businesses, with actionable insights to enhance decision-making processes in the restaurant industry.
 
-*Outcomes*:
+**Outcomes**:
 Comprehensive Dataset Understanding: Gain a deep understanding of the Zomato restaurant dataset, including its attributes, distributions, and potential biases.
 Insightful Analysis: Generate actionable insights about customer preferences, pricing trends, popular cuisines, and other relevant aspects of the Hyderabad restaurant scene.
 Effective Communication: Present findings through compelling data visualizations that effectively communicate key insights to stakeholders.
