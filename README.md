@@ -52,6 +52,6 @@ This project aims to analyze the Zomato restaurant dataset for Hyderabad, India,
 - **Price Range**: The majority of restaurants have a price range between 200-500 INR per person.
 - **Rating Distribution**: Ratings are normally distributed, with a mean rating of 4.2.
 - **Predictive Model Performance**: The predictive model achieved an accuracy of 80% in predicting restaurant ratings.
-  **Visualizations**
+-- **Visualizations**
 - **Flow Chart**: Visual representation of the data analysis process, outlining the steps from data exploration to predictive modeling.
 - **Pie Charts**: Illustration of the distribution of cuisine preferences and price ranges among restaurants in Hyderabad.
