@@ -56,6 +56,8 @@ This project aims to analyze the Zomato restaurant dataset for Hyderabad, India,
 - **Flow Chart**: Visual representation of the data analysis process, outlining the steps from data exploration to predictive modeling.
 - **Pie Charts**: Illustration of the distribution of cuisine preferences and price ranges among restaurants in Hyderabad.
 
-<a href="https://github.com/yaswanthsimha36">
-  <img src="https://avatars.githubusercontent.com/u/152509233?v=4" />
+### Our Contributors ✨
+
+<a href="https://github.com/mfts/papermark/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=mfts/papermark" />
 </a>
