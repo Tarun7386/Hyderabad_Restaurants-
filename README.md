@@ -57,5 +57,5 @@ This project aims to analyze the Zomato restaurant dataset for Hyderabad, India,
 - **Pie Charts**: Illustration of the distribution of cuisine preferences and price ranges among restaurants in Hyderabad.
 
 <a href="https://github.com/yaswanthsimha36">
-  <img src="https://github.com/yaswanthsimha36" />
+  <img src="https://avatars.githubusercontent.com/u/152509233?v=4" />
 </a>
