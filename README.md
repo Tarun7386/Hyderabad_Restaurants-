@@ -59,5 +59,6 @@ This project aims to analyze the Zomato restaurant dataset for Hyderabad, India,
 ### Our Contributors ✨
 
 <a href="https://github.com/yaswanthsimha36">
-  <img src="https://github.com/yaswanthsimha36" />
+  <img src="![image](https://github.com/Tarun7386/Hyderabad_Restaurants-/assets/148840821/2eae4768-0fd5-4041-8323-9f756ccd623e)
+" />
 </a>
