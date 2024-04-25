@@ -58,6 +58,6 @@ This project aims to analyze the Zomato restaurant dataset for Hyderabad, India,
 
 ### Our Contributors ✨
 
-<a href="https://github.com/mfts/papermark/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=mfts/papermark" />
+<a href="https://github.com/yaswanthsimha36">
+  <img src="https://github.com/yaswanthsimha36" />
 </a>
