@@ -41,6 +41,8 @@ This project aims to analyze the Zomato restaurant dataset for Hyderabad, India,
 - **Matplotlib:** Library for creating static, interactive, and animated visualizations in Python..
 - **NumPy:** Library for numerical computing in Python.
 - **GitHub:** Version control platform for collaboration and project management.
+- **Seaborn:** Seaborn is a powerful Python visualization library built on top of Matplotlib. While Matplotlib provides basic functionality for creating plots, 
+   Seaborn offers a higher-level interface with additional features and aesthetically pleasing visualizations
 
 # Design Flow
 - **Data Exploration**: Utilize Pandas to explore the dataset, examining its structure, missing values, and basic statistics.
