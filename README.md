@@ -56,7 +56,7 @@ This project aims to analyze the Zomato restaurant dataset for Hyderabad, India,
 - **Predictive Model Performance**: The predictive model achieved an accuracy of 80% in predicting restaurant ratings.
   ## Visualizations
 - **Flow Chart**: Visual representation of the data analysis process, outlining the steps from data exploration to predictive modeling.
-- **Pie Charts**: Illustration of the distribution of cuisine preferences and price ranges among restaurants in Hyderabad.
+- **Bar Charts**: Illustration of the distribution of cuisine preferences and price ranges among restaurants in Hyderabad.
 
 ### Our Contributors ✨
 
